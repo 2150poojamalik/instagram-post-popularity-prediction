@@ -142,6 +142,4 @@ the problem, approach, and results.
 - [ ] Package `predict.py` behind a small REST API (FastAPI) for integration
       into other tools
 
-## License
 
-MIT — see [LICENSE](LICENSE).
