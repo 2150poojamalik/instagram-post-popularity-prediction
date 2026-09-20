@@ -1,0 +1,13 @@
+[
+  "num_tags",
+  "num_comments",
+  "media_type",
+  "hour",
+  "day_of_week",
+  "is_weekend",
+  "month",
+  "days_since_prev_post",
+  "prev_avg_comments_5",
+  "prev_avg_tags_5",
+  "user_avg_comments_so_far"
+]
