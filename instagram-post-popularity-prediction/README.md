@@ -1,4 +1,4 @@
-# 📸 Instagram Post Popularity Prediction
+#  Instagram Post Popularity Prediction
 
 Predicts whether a future Instagram post will out-perform an account's own
 recent engagement, using only metadata that's known **before** the post
